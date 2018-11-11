@@ -1,5 +1,5 @@
-components--
-  -- JS module
-  -- CSS module
-  -- UI components
+components--<br>
+  -- JS module<br>
+  -- CSS module<br>
+  -- UI components<br>
   -- Pages
