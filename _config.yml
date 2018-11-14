@@ -25,10 +25,10 @@ twitter_username: Shuaishuai_Li
 github_username:  ReadyThenRun
 
 # Build settings
-markdown: kramdown
-theme: jekyll-theme-merlot
-plugins:
-  - jekyll-feed
+# markdown: kramdown
+# theme: jekyll-theme-merlot
+# plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
