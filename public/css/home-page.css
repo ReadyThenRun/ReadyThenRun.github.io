@@ -1,4 +1,7 @@
 .home-body {
+    font-family: "proxima-nova",helvetica neue,helvetica,arial,sans-serif;
     background: "./img/bg-main-future-city.jpg";
-    color:rgba(10, 245, 49, 0.815)
+    color:#121619;
+    font-size: 17px;
+    background-color: #fcfcfc;
 }
