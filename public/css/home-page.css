@@ -9,3 +9,7 @@ header {
     color:#ebecee;
     background-color: #018ac0da;
 }
+
+header.nav {
+    color:#fcfcfc;
+}
